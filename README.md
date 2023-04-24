@@ -1,9 +1,11 @@
 # Technical test - Felipe Parra
 
-<!-- ## Start dev container
-- Open project folder on VSCode
-- Select __"Reopen in container"__
-- Choose __"From Dockerfile"__ -->
+For this test I used Fast API for the backend and Next JS (13.3).
+
+#### Development mode
+
+- The backend will be running on port 8081 (localhost)
+- The frontend will be running on port 3000 (localhost)
 
 ## 🛠 Getting started Backend
 
